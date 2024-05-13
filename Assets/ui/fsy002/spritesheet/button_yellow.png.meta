@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 5176dc6b9ff53af4294baaa882cdd1bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 534151706531314270
+    second: button_yellow_0
+  - first:
+      213: -2273152868887604657
+    second: button_yellow_1
+  - first:
+      213: 8332316414340458571
+    second: button_yellow_2
+  - first:
+      213: 8742036913850112064
+    second: button_yellow_3
+  - first:
+      213: 673281025796187361
+    second: button_yellow_4
+  - first:
+      213: -3904587210503562795
+    second: button_yellow_5
+  - first:
+      213: -6987787291560435825
+    second: button_yellow_6
+  - first:
+      213: -3975013443427484619
+    second: button_yellow_7
+  - first:
+      213: -1807133426185596422
+    second: button_yellow_8
+  - first:
+      213: -5510877430487693395
+    second: button_yellow_9
+  - first:
+      213: -2370011504083055613
+    second: button_yellow_10
+  - first:
+      213: 7801455226128487861
+    second: button_yellow_11
+  - first:
+      213: 6514311665983895706
+    second: button_yellow_12
+  - first:
+      213: -3488196302040638075
+    second: button_yellow_13
+  - first:
+      213: 3696781684853707505
+    second: button_yellow_14
+  - first:
+      213: 74989700490219909
+    second: button_yellow_15
+  - first:
+      213: -3233275924456866058
+    second: button_yellow_16
+  - first:
+      213: -934891779149979995
+    second: button_yellow_17
+  - first:
+      213: 7302775202125437272
+    second: button_yellow_18
+  - first:
+      213: -8137432805282894550
+    second: button_yellow_19
+  - first:
+      213: -3502284431903678056
+    second: button_yellow_20
+  - first:
+      213: -614856814081941931
+    second: button_yellow_21
+  - first:
+      213: 3563779549807372094
+    second: button_yellow_22
+  - first:
+      213: 979050794663782168
+    second: button_yellow_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_yellow_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 561
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ab7f3a520b96700800000000000000
+      internalID: 534151706531314270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 561
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f425bc962832470e0800000000000000
+      internalID: -2273152868887604657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 561
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b486be0e1a552a370800000000000000
+      internalID: 8332316414340458571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 561
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048536f7144f15970800000000000000
+      internalID: 8742036913850112064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_4
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 561
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a7989689f75900800000000000000
+      internalID: 673281025796187361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_5
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 561
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9d6639e9e10d9c0800000000000000
+      internalID: -3904587210503562795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_6
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 561
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f1d803b74660f90800000000000000
+      internalID: -6987787291560435825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_7
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 561
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c3a1f655ae5d8c0800000000000000
+      internalID: -3975013443427484619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 296
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1197639b5cbe6e0800000000000000
+      internalID: -1807133426185596422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da74013cc2e6583b0800000000000000
+      internalID: -5510877430487693395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 296
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4a8908170c1fd0800000000000000
+      internalID: -2370011504083055613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_11
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 296
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5d08cb136544c60800000000000000
+      internalID: 7801455226128487861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_12
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 296
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98372722fb776a50800000000000000
+      internalID: 6514311665983895706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 296
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d590ec1ff679fc0800000000000000
+      internalID: -3488196302040638075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_14
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 296
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f210e12b5b9d4330800000000000000
+      internalID: 3696781684853707505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_15
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 296
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581588b3cba6a0100800000000000000
+      internalID: 74989700490219909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fefce56da81123d0800000000000000
+      internalID: -3233275924456866058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 27
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae155051e89603f0800000000000000
+      internalID: -934891779149979995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 27
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859d735ca5ba85560800000000000000
+      internalID: 7302775202125437272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_19
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 28
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da0814af7021f80800000000000000
+      internalID: -8137432805282894550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_20
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 27
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89120067dd2656fc0800000000000000
+      internalID: -3502284431903678056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_21
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 27
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55edae83cf69777f0800000000000000
+      internalID: -614856814081941931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_22
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 26
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37e11c6e96157130800000000000000
+      internalID: 3563779549807372094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow_23
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 27
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817aff0b289469d00800000000000000
+      internalID: 979050794663782168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      button_yellow_0: 534151706531314270
+      button_yellow_1: -2273152868887604657
+      button_yellow_10: -2370011504083055613
+      button_yellow_11: 7801455226128487861
+      button_yellow_12: 6514311665983895706
+      button_yellow_13: -3488196302040638075
+      button_yellow_14: 3696781684853707505
+      button_yellow_15: 74989700490219909
+      button_yellow_16: -3233275924456866058
+      button_yellow_17: -934891779149979995
+      button_yellow_18: 7302775202125437272
+      button_yellow_19: -8137432805282894550
+      button_yellow_2: 8332316414340458571
+      button_yellow_20: -3502284431903678056
+      button_yellow_21: -614856814081941931
+      button_yellow_22: 3563779549807372094
+      button_yellow_23: 979050794663782168
+      button_yellow_3: 8742036913850112064
+      button_yellow_4: 673281025796187361
+      button_yellow_5: -3904587210503562795
+      button_yellow_6: -6987787291560435825
+      button_yellow_7: -3975013443427484619
+      button_yellow_8: -1807133426185596422
+      button_yellow_9: -5510877430487693395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
